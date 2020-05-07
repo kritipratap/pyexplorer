@@ -1,4 +1,3 @@
-# Write your mean_datasets function here
 import numpy as np
 
 def mean_datasets(files):
